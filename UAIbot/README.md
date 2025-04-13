@@ -1,4 +1,4 @@
-Example of interaction of UAIbotJS with NiryoNed:
+# Example of interaction of UAIbotJS with NiryoNed:
 
 Assuming your local Python setup already has the support for pyniryo, first run the server.py program with Python
 
